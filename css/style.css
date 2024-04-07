@@ -90,3 +90,30 @@ position: relative;
         gap: 12px;
     }
 }
+
+
+
+/* INTRODUÇÃO */ 
+
+.introducao { 
+    display: grid;
+    max-width: 1355px;
+    padding: 40px 90px;
+}
+
+.introducao-bg {background-color: #DEE099;}
+
+.introducao img {
+    max-width: 100%;
+}
+
+.introducao-imgs {
+    display: flex;
+    justify-content: center;
+}
+
+.introducao-imgs img {
+    width: 308px;
+    height: 290px;
+    padding: 20px 30px;
+}
